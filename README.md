@@ -1,3 +1,6 @@
+Example for [this issue with prerendering in SvelteKit](https://github.com/sveltejs/kit/issues/2283).
+The file [`static\HELLO.md`](static\HELLO.md) is supposed to be fetched and integrated into the Document at compile time.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
